@@ -1,5 +1,5 @@
 <script>
-    import Home from './pages/Home.svelte';
+    import Home from './Pages/Home.svelte';
 </script>
 
 <Home />
