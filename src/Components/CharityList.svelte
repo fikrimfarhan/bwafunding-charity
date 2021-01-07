@@ -131,7 +131,7 @@
             </div><!-- .xs-item-header END -->
             <div class="xs-item-content">
               <ul class="xs-simple-tag xs-mb-20">
-                <li><a href="">{charity.category}</a></li>
+                <li><a href="#">{charity.category}</a></li>
               </ul>
 
               <a href="#" class="xs-post-title xs-mb-30">
