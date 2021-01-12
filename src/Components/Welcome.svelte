@@ -4,9 +4,8 @@
       <div class="xs-welcome-content" style="background-image: url(assets/images/slide1.png);">
         <div class="container">
           <div class="xs-welcome-wraper color-white">
-            <h2>Hunger is stalking the globe</h2>
-            <p>Hundreds of thousands of children experiencing or witnessing assault <br> and other
-              gender-based violence.</p>
+            <h2>DISASTER is stalking at Indonesia</h2>
+            <p>Hundreds of building hit by a disaster.</p>
             <a href="#popularcause" class="btn btn-outline-primary">
               View Causes
             </a>
